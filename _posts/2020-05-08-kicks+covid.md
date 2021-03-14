@@ -3,8 +3,10 @@ title:  "Kicks and Covid"
 author: Valentina
 categories: [ sneakers, fashion ]
 tags: [ sneakers, StockX ]
-image: /Users/valentina/Documents/blog/valentinacarrizo.github.io/assets/images/1.jpg
-rating: 4.5
+image:
+
+<! -- Headings -- >
+# Kicks +  Covid 
 
 ---
 
