@@ -21,7 +21,7 @@ This decision has proven controversial for Nike, as the unveiling of the Dior Ai
 
 
 
-The sneaker resale industry is an important part of sneaker culture. This DIY movement has allowed many to make their fortunes on the legal buying of exclusive and limited stock and selling this forward at a higher price tag. Big retailer names like Flight Club in New York City and Round Two in Los Angeles were born out of such reselling and are now reputable establishments revered worldwide. While larger-scale retailers are feeling the pinch during the pandemic, sole traders are suffering the most. The highly anticipated Off White Retro Air Jordan 5 that was released mid-February retailed at $355AUD and reached a resale price of $2690AUD has now dropped to $1034AUD since the implementation of self-isolation measures.
+The sneaker resale industry is an important part of sneaker culture. This DIY movement has allowed many to make their fortunes on the legal buying of exclusive and limited stock and selling this forward at a higher price tag. Big retailer names like *Flight Club* in New York City and *Round Two* in Los Angeles were born out of such reselling and are now reputable establishments revered worldwide. While larger-scale retailers are feeling the pinch during the pandemic, sole traders are suffering the most. The highly anticipated Off White Retro Air Jordan 5 that was released mid-February retailed at $355AUD and reached a resale price of $2690AUD has now dropped to $1034AUD since the implementation of self-isolation measures.
 
 StockX, Goat, and Stadium Goods which are all online reselling platforms reported that inventory has stalled since consumers are not spending as much money on anything other than essential items. The sole traders who rely on these platforms as their only source of income have been hardest hit. As an effect of the sneaker drops that have been postponed (six in total now), the resell market will likely experience the aftershocks of having no new sneakers to flip and will stall in the aftermath of the virus. 
 
@@ -51,3 +51,7 @@ Since StockX was founded to be the friendly neighbourhood informant of the marke
 
 The new 3% surcharge has sellers hitting up StockX socials threatening to permanently swap to other resale platforms with fewer fees, such as eBay or Stadium Goods. Not only this, but any loss - financial or otherwise which StockX may concede during this time will impact upon their key investors’ trust in the company, among whom are some recognisable names; Karlie Kloss, Eminem, Scooter Braun and Mark Wahlberg. As the industry’s leading resale platform it is up to StockX to set the tone during the pandemic and enforce 100% transparency to regain customers’ trust and make reparations with a community of passionate and knowledgeable customers who are not afraid to make their voices heard through their wallets. 
 
+
+
+
+*This article was originally published on TFI Insider*
