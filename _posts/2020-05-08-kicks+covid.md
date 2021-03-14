@@ -4,7 +4,7 @@ title:  "Kicks + Covid"
 author: Valentina
 categories: [ sneakers, fashion ]
 tags: [ StockX ]
-image: assets/images/1.jpg
+image: /assets/images/555133_08.jpg.jpeg
 ---
 
 Sneakerheads everywhere at this very moment are hunched over computer screens, brows beading with sweat in the fluorescent glow of the monitor as they try in vain to secure possession of exclusive sneakers that are being launched online. The faint smell of cardboard hangs in the air around them, oozing from the stacks of shoeboxes shrouded in the shadows of their bedrooms. Yes, they still live with their parents but not out of choice - out of dedication to the craft, to the financial strain but spiritual gain of collecting and reselling sneakers. Nothing will stop them. They may have lost the ability to walk down the street to the store, but they haven’t lost the ability to revel in their latest purchase, the high of receiving a new pair in the mail and the ecstasy of wearing them for the first time. 
@@ -19,9 +19,12 @@ However, in some instances, brands have gone even further to postpone releases a
 
 This decision has proven controversial for Nike, as the unveiling of the Dior Air Jordan earlier this year was met with negativity amongst the community for not being imaginative enough, and not progressing the sneaker scene in any memorable way. While every Nike collaboration is well placed and enacted with the intention of promoting sales and brand awareness, devout sneaker lovers are usually happy to overlook the money mongering side of the business and focus on creativity and meaning. However, since this highly anticipated collaboration was with a respected luxury fashion house, the lacklustre final product appeared to capitalise upon the Dior branding as a fad more than a creative collaboration, or a shoe which paid its respects to the culture surrounding a sneaker, resulting in many deflated sneakerheads who wanted to love it but were left un-moved by the design. 
 
+![Dior Air Jordan Low](/assets/images/2.jpeg)
 
-
+![Travis Scott at the Dior Event in Miami wearing the unreleased Jordans](/assets/images/21796110-7754263-image-m-334_1575445004876.jpeg)
 The sneaker resale industry is an important part of sneaker culture. This DIY movement has allowed many to make their fortunes on the legal buying of exclusive and limited stock and selling this forward at a higher price tag. Big retailer names like *Flight Club* in New York City and *Round Two* in Los Angeles were born out of such reselling and are now reputable establishments revered worldwide. While larger-scale retailers are feeling the pinch during the pandemic, sole traders are suffering the most. The highly anticipated Off White Retro Air Jordan 5 that was released mid-February retailed at $355AUD and reached a resale price of $2690AUD has now dropped to $1034AUD since the implementation of self-isolation measures.
+
+![Off White Retro Air Jordan 5](/assets/images/download.jpeg)
 
 StockX, Goat, and Stadium Goods which are all online reselling platforms reported that inventory has stalled since consumers are not spending as much money on anything other than essential items. The sole traders who rely on these platforms as their only source of income have been hardest hit. As an effect of the sneaker drops that have been postponed (six in total now), the resell market will likely experience the aftershocks of having no new sneakers to flip and will stall in the aftermath of the virus. 
 
@@ -32,6 +35,8 @@ Since many Nike Jordan launches have been postponed, it is perhaps surprising th
  
 
 For the economy to evolve beyond this pandemic people need to feel confident in spending their money, and the same goes for sneaker shopping. If buyers and sellers lose confidence in the enterprises which prop up this industry, the end of the pandemic could bring with it a mass reshuffling of the way sneakers are bought, sold and worn. 
+
+![Women's Air Jordan 4 Retro Rasta](/assets/images/555133_08.jpg.jpeg)
 
 StockX is perhaps the most highly used and recommended platform for sneaker resale. It’s an idea that has manifested in the past five years into a lucrative business for its founders and for the many sellers who have flipped hundreds of thousands of dollars worth of sneakers on the site. As of June 2019, the company is worth 1 billion US dollars. 
 
