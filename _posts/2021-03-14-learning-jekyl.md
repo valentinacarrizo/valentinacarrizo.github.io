@@ -144,69 +144,71 @@ Where you see silence, you should be suspicious of it. It almost always leads to
 
  
 
-How brands can become anti-racist: 
+## How brands can become anti-racist: 
 
-Brands that benefit from black culture should employ more black people. 
+- Brands that benefit from black culture should employ more black people. 
 
-The beneficiaries and power brokers behind multi-million-dollar corporations should donate their own money to charities generously before asking poor people to donate to other poor people. 
+- The beneficiaries and power brokers behind multi-million-dollar corporations should donate their own money to charities generously before asking poor people to donate to other poor people. 
 
-Allow black/indigenous employees the opportunity to climb within the business.
+- Allow black/indigenous employees the opportunity to climb within the business.
 
-Facilitate black/indigenous employees’ access to upskilling courses. 
+- Facilitate black/indigenous employees’ access to upskilling courses. 
 
-Equal pay across your organisation. 
+- Equal pay across your organisation. 
 
-Ensure ethnic diversity across the company. 
+- Ensure ethnic diversity across the company. 
 
-Brands should focus on what will have the biggest tangible impact rather than spending money on campaigns that might inspire but have no tangible outcome.
+- Brands should focus on what will have the biggest tangible impact rather than spending money on campaigns that might inspire but have no tangible outcome.
 
-Measure progress and showcase milestones. 
+- Measure progress and showcase milestones. 
 
-Action over words. 
+- Action over words. 
 
-Brands should take action to call their government out and push for appropriate action from legislators. 
+- Brands should take action to call their government out and push for appropriate action from legislators. 
 
-Do not continue business as usual during a crisis. 
+- Do not continue business as usual during a crisis. 
 
-Brands should seek to educate their employees and customers always, not only during times of crisis. 
+- Brands should seek to educate their employees and customers always, not only during times of crisis. 
 
-Do not exploit human suffering for commercial gain. Consider ceasing to post product images on Instagram during a human rights crisis. Consider not driving sales when efforts could be better spent donating to a charity. 
+- Do not exploit human suffering for commercial gain. Consider ceasing to post product images on Instagram during a human rights crisis. Consider not driving sales when efforts could be better spent donating to a charity. 
 
-Pay a living wage to garment workers. 
+- Pay a living wage to garment workers. 
 
-Be mindful of which celebrities and influencers they are associated with. Do not support individuals who do not actively donate and protest such issues. 
+- Be mindful of which celebrities and influencers they are associated with. Do not support individuals who do not actively donate and protest such issues. 
 
-Retailers should stock black/indigenous-owned businesses. 
-
- 
-
-Aspiring professionals: 
-
-As a consumer, email your favourite brands or comment on their posts and ask them what they are doing specifically to pursue change. Are they employing Indigenous people and supporting Indigenous businesses? 
+- Retailers should stock black/indigenous-owned businesses. 
 
  
 
-At a job interview when you get a moment to ask questions of your potential employer, ask them what kind of things they do internally to promote an anti-racist functioning, and if they are open to continuing and expanding these efforts. 
+## Aspiring professionals: 
+
+- As a consumer, email your favourite brands or comment on their posts and ask them what they are doing specifically to pursue change. Are they employing Indigenous people and supporting Indigenous businesses? 
+
+ 
+
+- At a job interview when you get a moment to ask questions of your potential employer, ask them what kind of things they do internally to promote an anti-racist functioning, and if they are open to continuing and expanding these efforts. 
 
  
 
 
 
-RESOURCES:
+# Resources
 
  
 
-Netflix: When They See Us  
+Netflix: 
+
+- When They See Us  
 
 Books: 
 
-Have Black Lives Ever Mattered by Mumia Abu-Jamal
+- Have Black Lives Ever Mattered by Mumia Abu-Jamal
 
-The Hate U Give by Angie Thomas
+- The Hate U Give by Angie Thomas
 
-How to Be an Antiracist by Ibram X. Kendi
+- How to Be an Antiracist by Ibram X. Kendi
 
-White Fragility: Why it’s so hard for white people to talk about racism, by Robin DiAngelo
+- White Fragility: Why it’s so hard for white people to talk about racism, by Robin DiAngelo
 
 Instagram: 
 
@@ -220,39 +222,42 @@ Instagram:
 
  
 
-Racism Scale https://racismscale.weebly.com/
+[ Racism Scale ](https://racismscale.weebly.com/)
+
 
  
 
-It Does Not Matter If You Are Good, by R. Eric Thomas https://www.elle.com/culture/career-politics/a32712287/cnn-omar-jimenez-arrest-response/
+[It Does Not Matter If You Are Good, by R. Eric Thomas](https://www.elle.com/culture/career-politics/a32712287/cnn-omar-jimenez-arrest-response/)
 
-75 Things White People Can Do For Racial Justice (American resource applicable to Australia)https://medium.com/equality-includes-you/what-white-people-can-do-for-racial-justice-f2d18b0e0234
+[75 Things White People Can Do For Racial Justice (American resource applicable to Australia)](https://medium.com/equality-includes-you/what-white-people-can-do-for-racial-justice-f2d18b0e0234)
 
  
 
 DONATE TO INDIGENOUS CHARITIES HERE: 
 
-https://www.justiceaction.org.au/donate Aboriginal Deaths in Custody Watch Committee
+[Aboriginal Deaths in Custody Watch Committee](https://www.justiceaction.org.au/donate) 
 
-https://au.gofundme.com/f/d9qkb6-justice-for-david Justice for David Dungay Junior 
+[Justice for David Dungay Junior](https://au.gofundme.com/f/d9qkb6-justice-for-david) 
 
-https://aimementoring.com/ AIME Mentoring 
+[AIME Mentoring](https://aimementoring.com/)  
 
-http://www.blackrainbow.org.au/donate/ Black Rainbow 
+[Black Rainbow](http://www.blackrainbow.org.au/donate/)  
 
-https://fnwa.org.au/ First Nations Workers Alliance 
+[First Nations Workers Alliance](https://fnwa.org.au/)  
 
-https://au.gofundme.com/f/paytherent-to-grandmothers-against-removals Grandmothers Against Removals
+[Grandmothers Against Removals](https://au.gofundme.com/f/paytherent-to-grandmothers-against-removals) 
 
-https://gunawirra.org.au/ Gunawirra 
+[Gunawirra](https://gunawirra.org.au/)  
 
-https://sistersinside.com.au/ Sisters Inside Bail Fund 
+[Sisters Inside Bail Fund](https://sistersinside.com.au/)  
 
-http://www.bushmob.com.au/ BushMob 
+[BushMob ](http://www.bushmob.com.au/) 
 
-https://www.givenow.com.au/fvpls Djirra Aboriginal Women’s Safety and Wellbeing
-
+[Djirra Aboriginal Women’s Safety and Wellbeing
+](https://www.givenow.com.au/fvpls) 
  
 
 If you would like to fact check me, or access more resources please leave a comment below.
+
+*This article was originally published on TFI Insider*
 
