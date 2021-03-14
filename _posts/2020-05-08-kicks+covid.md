@@ -21,6 +21,7 @@ This decision has proven controversial for Nike, as the unveiling of the Dior Ai
 
 ![Dior Air Jordan Low](/assets/images/2.jpeg)
 
+
 ![Travis Scott at the Dior Event in Miami wearing the unreleased Jordans](/assets/images/21796110-7754263-image-m-334_1575445004876.jpeg)
 The sneaker resale industry is an important part of sneaker culture. This DIY movement has allowed many to make their fortunes on the legal buying of exclusive and limited stock and selling this forward at a higher price tag. Big retailer names like *Flight Club* in New York City and *Round Two* in Los Angeles were born out of such reselling and are now reputable establishments revered worldwide. While larger-scale retailers are feeling the pinch during the pandemic, sole traders are suffering the most. The highly anticipated Off White Retro Air Jordan 5 that was released mid-February retailed at $355AUD and reached a resale price of $2690AUD has now dropped to $1034AUD since the implementation of self-isolation measures.
 
