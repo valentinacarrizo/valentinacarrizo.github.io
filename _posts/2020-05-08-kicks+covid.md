@@ -1,13 +1,10 @@
+---
 layout: post
-title:  "Kicks and Covid"
+title:  "Kicks + Covid"
 author: Valentina
 categories: [ sneakers, fashion ]
 tags: [ sneakers, StockX ]
 image:
-
-<! -- Headings -- >
-# Kicks +  Covid 
-
 ---
 
 Sneakerheads everywhere at this very moment are hunched over computer screens, brows beading with sweat in the fluorescent glow of the monitor as they try in vain to secure possession of exclusive sneakers that are being launched online. The faint smell of cardboard hangs in the air around them, oozing from the stacks of shoeboxes shrouded in the shadows of their bedrooms. Yes, they still live with their parents but not out of choice - out of dedication to the craft, to the financial strain but spiritual gain of collecting and reselling sneakers. Nothing will stop them. They may have lost the ability to walk down the street to the store, but they haven’t lost the ability to revel in their latest purchase, the high of receiving a new pair in the mail and the ecstasy of wearing them for the first time. 
@@ -21,6 +18,8 @@ For those of you who have not managed to cultivate an unhealthy obsession with t
 However, in some instances, brands have gone even further to postpone releases altogether until they can be carried out in person when bans on physical gatherings are lifted. Most notably, Nike has postponed the release of the Dior x Air Jordan collaboration. This shoe will retail at over $3000AUD, a price point which possibly prompted the brand to wait until they could do a full-scale drop complete with celebrity features, physical launches and release parties worldwide. 
 
 This decision has proven controversial for Nike, as the unveiling of the Dior Air Jordan earlier this year was met with negativity amongst the community for not being imaginative enough, and not progressing the sneaker scene in any memorable way. While every Nike collaboration is well placed and enacted with the intention of promoting sales and brand awareness, devout sneaker lovers are usually happy to overlook the money mongering side of the business and focus on creativity and meaning. However, since this highly anticipated collaboration was with a respected luxury fashion house, the lacklustre final product appeared to capitalise upon the Dior branding as a fad more than a creative collaboration, or a shoe which paid its respects to the culture surrounding a sneaker, resulting in many deflated sneakerheads who wanted to love it but were left un-moved by the design. 
+
+
 
 The sneaker resale industry is an important part of sneaker culture. This DIY movement has allowed many to make their fortunes on the legal buying of exclusive and limited stock and selling this forward at a higher price tag. Big retailer names like Flight Club in New York City and Round Two in Los Angeles were born out of such reselling and are now reputable establishments revered worldwide. While larger-scale retailers are feeling the pinch during the pandemic, sole traders are suffering the most. The highly anticipated Off White Retro Air Jordan 5 that was released mid-February retailed at $355AUD and reached a resale price of $2690AUD has now dropped to $1034AUD since the implementation of self-isolation measures.
 
