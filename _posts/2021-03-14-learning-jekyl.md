@@ -5,7 +5,8 @@ author: Valentina
 categories: [ BLM, fashion ]
 image: assets/images/2.jpg
 ---
->“Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.” - Martin Luther King Jr, Letter from Birmingham Jail, 1963
+>“Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.” 
+-Martin Luther King Jr, Letter from Birmingham Jail, 1963
 
 Confronted hourly with images and visions of the police brutality befalling the US right now, you may be feeling any number of emotions - confusion, betrayal, or like me - violent, seething anger mixed with exhaustion. All of these are valid. What you shouldn’t be feeling - is apathy. 
 
@@ -196,11 +197,11 @@ Where you see silence, you should be suspicious of it. It almost always leads to
 
  
 
-Netflix: 
+**Netflix:** 
 
 - When They See Us  
 
-Books: 
+**Books:** 
 
 - Have Black Lives Ever Mattered by Mumia Abu-Jamal
 
@@ -210,7 +211,7 @@ Books:
 
 - White Fragility: Why it’s so hard for white people to talk about racism, by Robin DiAngelo
 
-Instagram: 
+**Instagram:** 
 
 @colorofchange
 
@@ -233,7 +234,7 @@ Instagram:
 
  
 
-DONATE TO INDIGENOUS CHARITIES HERE: 
+**Donate to Indigenous charities here:** 
 
 [Aboriginal Deaths in Custody Watch Committee](https://www.justiceaction.org.au/donate) 
 
