@@ -1,9 +1,9 @@
 layout: post
-title: "Kicks + Covid"
+title:  "Kicks and Covid"
 author: Valentina
-categories: [ sneakers ] 
-tags: [ sneakers ]
-image: assets/images/2.jpg
+categories: [ sneakers, fashion ]
+tags: [ sneakers, StockX ]
+image: /Users/valentina/Documents/blog/valentinacarrizo.github.io/assets/images/1.jpg
 rating: 4.5
 
 ---
@@ -49,3 +49,4 @@ Since StockX was founded to be the friendly neighbourhood informant of the marke
  
 
 The new 3% surcharge has sellers hitting up StockX socials threatening to permanently swap to other resale platforms with fewer fees, such as eBay or Stadium Goods. Not only this, but any loss - financial or otherwise which StockX may concede during this time will impact upon their key investors’ trust in the company, among whom are some recognisable names; Karlie Kloss, Eminem, Scooter Braun and Mark Wahlberg. As the industry’s leading resale platform it is up to StockX to set the tone during the pandemic and enforce 100% transparency to regain customers’ trust and make reparations with a community of passionate and knowledgeable customers who are not afraid to make their voices heard through their wallets. 
+
