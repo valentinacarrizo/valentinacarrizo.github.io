@@ -4,7 +4,7 @@ title:  "Kicks + Covid"
 author: Valentina
 categories: [ sneakers, fashion ]
 tags: [ StockX ]
-image: /assets/images/_107287205_d8cdw2pwkaaoiwl.jpeg
+image: assets/images/_107287863_d8cdw2pwkaaoiwl.jpeg
 ---
 
 Sneakerheads everywhere at this very moment are hunched over computer screens, brows beading with sweat in the fluorescent glow of the monitor as they try in vain to secure possession of exclusive sneakers that are being launched online. The faint smell of cardboard hangs in the air around them, oozing from the stacks of shoeboxes shrouded in the shadows of their bedrooms. Yes, they still live with their parents but not out of choice - out of dedication to the craft, to the financial strain but spiritual gain of collecting and reselling sneakers. Nothing will stop them. They may have lost the ability to walk down the street to the store, but they haven’t lost the ability to revel in their latest purchase, the high of receiving a new pair in the mail and the ecstasy of wearing them for the first time. 
