@@ -25,7 +25,7 @@ This decision has proven controversial for Nike, as the unveiling of the Dior Ai
 ![Travis Scott at the Dior Event in Miami wearing the unreleased Jordans](/assets/images/21796110-7754263-image-m-334_1575445004876.jpeg)
 The sneaker resale industry is an important part of sneaker culture. This DIY movement has allowed many to make their fortunes on the legal buying of exclusive and limited stock and selling this forward at a higher price tag. Big retailer names like *Flight Club* in New York City and *Round Two* in Los Angeles were born out of such reselling and are now reputable establishments revered worldwide. While larger-scale retailers are feeling the pinch during the pandemic, sole traders are suffering the most. The highly anticipated Off White Retro Air Jordan 5 that was released mid-February retailed at $355AUD and reached a resale price of $2690AUD has now dropped to $1034AUD since the implementation of self-isolation measures.
 
-![Off White Retro Air Jordan 5](/assets/images/download.jpeg)
+![Off White Retro Air Jordan 5](/assets/images/OFF-WHITE-X-AIR-JORDAN-5-1.jpeg)
 
 StockX, Goat, and Stadium Goods which are all online reselling platforms reported that inventory has stalled since consumers are not spending as much money on anything other than essential items. The sole traders who rely on these platforms as their only source of income have been hardest hit. As an effect of the sneaker drops that have been postponed (six in total now), the resell market will likely experience the aftershocks of having no new sneakers to flip and will stall in the aftermath of the virus. 
 
