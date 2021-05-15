@@ -48,16 +48,23 @@
 // Navbar brand
 //
 // Used for brand, project, or site names.
-
+header {
+  height: 240px;
+  padding-left:  80px;
+  text-align: center;
+    background-color: #1a3b29;
+    margin-bottom: 80px;
+}
+.lunrsearchresults ul {
+  padding: 0;
+  margin: 0;
+}
 .navbar-brand {
   display: inline-block;
-  padding-top: $navbar-brand-padding-y;
-  padding-bottom: $navbar-brand-padding-y;
-  margin-right: $navbar-padding-x;
   @include font-size($navbar-brand-font-size);
   line-height: inherit;
   white-space: nowrap;
-
+  
   @include hover-focus() {
     text-decoration: none;
   }
