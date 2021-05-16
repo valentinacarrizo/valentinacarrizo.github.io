@@ -701,6 +701,12 @@ body.active-side {
             font-size: 1.4rem;
         }
     }
+    header {
+        padding-left: 0;
+    }
+    .footer {
+        margin-left: 0;
+    }
 }
 @media (max-width: 480px) {
     .newsletter {
