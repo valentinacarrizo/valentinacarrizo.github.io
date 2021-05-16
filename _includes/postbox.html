@@ -25,6 +25,9 @@
                 </div>
                 {% endif %}
             </h2>
+            {% if post.subtitle %}
+                <h3 class="card-subtitle">{{ post.subtitle }}</h2>
+            {% endif %}
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
         </div>
         <div class="card-footer bg-white">
