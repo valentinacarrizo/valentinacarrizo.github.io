@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kicks + Covid"
+title:  "Kicks + COVID"
 author: Valentina
 categories: [ sneakers, fashion ]
 tags: [ StockX ]
